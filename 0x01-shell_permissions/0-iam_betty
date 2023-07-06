@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ./switch_to_betty.sh
+tail -1 0-iam_betty | wc -c 9
